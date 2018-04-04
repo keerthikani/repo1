@@ -1,23 +1,2 @@
-kjhgcfdhkdfkjhdfb
-hai
-welcome
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ ca file2.txt
-bash: ca: command not found
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ cat file2.txt
-^Z^Z^A
-        cat >> file2.txt
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ ca file2.txt
-bash: ca: command not found
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ cat file2.txt
-^Z^Z^A
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ ca file2.txt
-bash: ca: command not found
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ cat file2.txt
-^Z^Z^A
-        cat >> file2.txt
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ ca file2.txt
-bash: ca: command not found
-RLE02MCA17@fisat:/mnt/RLE02MCA17/linux/git/src$ cat file2.txt
-^Z^Z^A
-^Z^Z^A
 
+he
